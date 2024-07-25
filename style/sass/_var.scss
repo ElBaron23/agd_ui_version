@@ -1,0 +1,21 @@
+
+//colors:
+
+$lightColor:#e8e8e8;
+$white:#fff;
+$darkColor:#212121;
+$black:#000000;
+$secondColor:#956afa;
+
+$dangerColor:#EF665B;
+
+//الخطوط
+@font-face {
+    font-family: tajawal;
+    src: url(../../font/Tajawal-Regular.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: tajawal;
+}
